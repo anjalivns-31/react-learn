@@ -1,0 +1,16 @@
+.header{
+  background-color: aqua;
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  margin: 2px;
+}
+.btn{
+  background-color: blueviolet;
+  margin:2px;
+  padding: 10px 20px;
+}
+.logo{
+  text-decoration: underline;
+}
