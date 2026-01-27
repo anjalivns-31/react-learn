@@ -1,0 +1,1 @@
+lucider react-npm install lucide-react : paste and run
