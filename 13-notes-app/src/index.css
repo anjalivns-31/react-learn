@@ -1,0 +1,118 @@
+body{
+    background-color: black;
+}
+.a{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    margin:10px;
+    gap: 4px; 
+}
+.b{
+    padding: 10px;
+    margin:10px;
+    background-color: black;
+    color: white;
+    border:solid 1px;
+}
+.c{
+    padding: 10px;
+    margin:10px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border:solid 1px;
+}
+.z{
+    height: full;
+    background:black;
+    padding: 100px;   
+}
+.m{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin:10px;
+}
+.n{
+    display: flex;
+    flex-direction: column;
+}
+.q{
+    display: flex;
+    flex-direction: column;
+    background-color: powderblue;
+    margin-top: 10px;
+    padding: 20px;
+    gap: 20px;              
+    align-items: center;    
+}
+
+.p{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.r{
+    color: gray;
+}
+.flex {
+  display: flex;
+  flex-direction: row;      /* 👈 horizontal */
+  gap: 25px;
+  justify-content: center;  /* center align */
+  flex-wrap: wrap;          /* next line me chale jaye agar space kam ho */
+}
+
+
+/* card */
+.card {
+  background: #fff;
+  width: 280px;
+  height: 220px;
+  border-radius: 18px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+}
+
+h3 {
+  margin: 0;
+  font-size: 22px;
+}
+
+p {
+  margin-top: 8px;
+  font-size: 16px;
+}
+.card {
+  width: 250px;
+  height: 200px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px;
+}
+.sticky {
+  background-image: url('https://static.vecteezy.com/system/resources/previews/037/152/677/non_2x/sticky-note-paper-background-free-png.png');
+  background-size: cover;
+  background-position: center;
+}
+.x{
+    background-color: red;
+    padding: 1%;
+    margin-top:100px;
+    border-radius: 20px;
+    display: flex;
+    width: 92%; 
+    align-items: center;     
+    justify-content: center;
+    
+    
+}
