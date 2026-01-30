@@ -2,4 +2,4 @@ localstorage-memory of browser (jab v hum local strogae me kuchh v store krate h
 1.localStorage.setItem()
 2.localStorage.getItem()
 3.localStorage.removeItem()
-4.localStorage.clear()
+4.localStorage.clear
